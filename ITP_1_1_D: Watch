@@ -1,8 +1,9 @@
+! /usr/bin/env python
+-*- coding: utf-8 -*-
+
 """
-秒単位の時間 S が与えられるので、h:m:s の形式へ変換
+Q. 秒単位の時間 S が与えられるので、h:m:s の形式へ変換
 """
-#! /usr/bin/env python
-# -*- coding: utf-8 -*-
 
 ##### データ読み込み
 S = int(input())
