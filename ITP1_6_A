@@ -1,0 +1,10 @@
+input()
+
+##### リスト作成
+list = input().split()
+
+##### 逆順
+list.reverse()
+
+##### 表示
+print(" ".join(list))
